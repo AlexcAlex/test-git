@@ -22,6 +22,7 @@
 		4BC0D7E31F94E04900DB0BBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BC0D7E61F94E04900DB0BBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4BC0D7E81F94E04900DB0BBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BC0D7EF1F94E7C300DB0BBF /* arbreDeGit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arbreDeGit.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		4BC0D7DB1F94E04900DB0BBF /* test-git */ = {
 			isa = PBXGroup;
 			children = (
+				4BC0D7EE1F94E76B00DB0BBF /* Ressources */,
 				4BC0D7DC1F94E04900DB0BBF /* AppDelegate.swift */,
 				4BC0D7DE1F94E04900DB0BBF /* ViewController.swift */,
 				4BC0D7E01F94E04900DB0BBF /* Main.storyboard */,
@@ -62,6 +64,14 @@
 				4BC0D7E81F94E04900DB0BBF /* Info.plist */,
 			);
 			path = "test-git";
+			sourceTree = "<group>";
+		};
+		4BC0D7EE1F94E76B00DB0BBF /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				4BC0D7EF1F94E7C300DB0BBF /* arbreDeGit.png */,
+			);
+			path = Ressources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
