@@ -9,14 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-    func afficher(_ msg:String, fois:Int = 1) {
-        for i in 0...fois {
-            print(i, msg)
-        } // for
-    } // afficher
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Je suis la ligne 15")
         // Do any additional setup after loading the view, typically from a nib.
         print("ViewController:viewDidLoad")
         afficher("yeaaaaahhhh", fois:5)
@@ -26,7 +22,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    func afficher(_ msg:String, fois:Int = 1) {
+        for i in 0...fois {
+            print(i, msg)
+        } // for
+    } // afficher
 
 }
 

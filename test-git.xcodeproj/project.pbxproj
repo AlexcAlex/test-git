@@ -12,6 +12,7 @@
 		4BC0D7E21F94E04900DB0BBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BC0D7E01F94E04900DB0BBF /* Main.storyboard */; };
 		4BC0D7E41F94E04900DB0BBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BC0D7E31F94E04900DB0BBF /* Assets.xcassets */; };
 		4BC0D7E71F94E04900DB0BBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BC0D7E51F94E04900DB0BBF /* LaunchScreen.storyboard */; };
+		4BC0D7F01F94EBB100DB0BBF /* arbreDeGit.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BC0D7EF1F94E7C300DB0BBF /* arbreDeGit.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,6 +136,7 @@
 			files = (
 				4BC0D7E71F94E04900DB0BBF /* LaunchScreen.storyboard in Resources */,
 				4BC0D7E41F94E04900DB0BBF /* Assets.xcassets in Resources */,
+				4BC0D7F01F94EBB100DB0BBF /* arbreDeGit.png in Resources */,
 				4BC0D7E21F94E04900DB0BBF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
