@@ -4,7 +4,7 @@
 //
 //  Created by git on 17-10-16.
 //  Copyright © 2017 git. All rights reserved.
-//
+//  --> Ligne modifiée à partir de gitHub <--
 
 import UIKit
 
